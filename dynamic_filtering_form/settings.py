@@ -27,7 +27,7 @@ SECRET_KEY = 'c)!2o^n^s4du5_2&yt-6btqtfpk_52!g@o(c=sb^%qr!^imb59'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["127.0.0.1:8000", "journals-filtering-form.herokuapp.com"]
+ALLOWED_HOSTS = ["127.0.0.1:8000", "dynamic-filtering-form.herokuapp.com"]
 
 
 # Application definition
